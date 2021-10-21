@@ -7,5 +7,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 
 
 
-For more details see [GitHub Flavored Markdown](https://maingk.github.io/Richard_Portfolio/)
+For more details see [Richard's Portfolio](https://maingk.github.io/Richard_Portfolio/)
 
